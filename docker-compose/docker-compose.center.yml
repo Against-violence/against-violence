@@ -1,0 +1,14 @@
+version: '3'
+services:
+  #消息中心
+  bus-server:
+    image: av/bus-server:latest
+    container_name: av-bus
+    restart: always
+    networks:
+      - av-net
+    ports:
+      - 8071:8071
+    env_file: .env
+    environment:
+      TZ: Asia/Shanghai

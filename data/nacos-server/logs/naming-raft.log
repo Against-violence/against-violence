@@ -1,0 +1,228 @@
+2019-11-03 00:58:34,109 INFO initializing Raft sub-system
+
+2019-11-03 00:58:33,884 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2019-11-03 00:58:34,126 INFO raft notifier started
+
+2019-11-03 00:58:34,126 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2019-11-03 00:58:34,128 INFO cache loaded, datum count: 0, current term: 0
+
+2019-11-03 00:58:34,128 INFO finish to load data from disk, cost: 2 ms.
+
+2019-11-03 00:58:34,134 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2019-11-03 00:58:34,143 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-11-03 00:58:34,209 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2019-11-03 00:58:37,223 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2019-11-03 00:58:43,851 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 00:58:43,851 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-11-03 00:58:43,852 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 00:58:46,125 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17402,"state":"FOLLOWER","term":0,"voteFor":""}, term: 0
+
+2019-11-03 00:59:08,862 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 01:35:01,688 INFO initializing Raft sub-system
+
+2019-11-03 01:35:01,490 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2019-11-03 01:35:01,701 INFO finish loading all datums, size: 0 cost 2 ms.
+
+2019-11-03 01:35:01,702 INFO raft notifier started
+
+2019-11-03 01:35:01,705 INFO cache loaded, datum count: 0, current term: 0
+
+2019-11-03 01:35:01,705 INFO finish to load data from disk, cost: 6 ms.
+
+2019-11-03 01:35:01,722 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-11-03 01:35:01,725 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2019-11-03 01:35:01,797 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2019-11-03 01:35:04,345 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2019-11-03 01:35:11,481 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 01:35:11,481 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-11-03 01:35:11,482 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 01:35:36,484 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:12:22,645 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19156,"state":"FOLLOWER","term":0,"voteFor":""}, term: 0
+
+2019-11-03 02:12:22,781 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18772,"state":"CANDIDATE","term":1,"voteFor":"866a20ba0172:8848"}, term: 1
+
+2019-11-03 02:12:22,782 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19836,"state":"CANDIDATE","term":2,"voteFor":"866a20ba0172:8848"}, term: 2
+
+2019-11-03 02:12:22,783 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19745,"state":"CANDIDATE","term":3,"voteFor":"866a20ba0172:8848"}, term: 3
+
+2019-11-03 02:12:22,784 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17025,"state":"CANDIDATE","term":4,"voteFor":"866a20ba0172:8848"}, term: 4
+
+2019-11-03 02:12:22,785 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":15047,"state":"CANDIDATE","term":5,"voteFor":"866a20ba0172:8848"}, term: 5
+
+2019-11-03 02:12:22,786 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18512,"state":"CANDIDATE","term":6,"voteFor":"866a20ba0172:8848"}, term: 6
+
+2019-11-03 02:12:22,961 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:12:22,980 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18412,"state":"CANDIDATE","term":7,"voteFor":"866a20ba0172:8848"}, term: 7
+
+2019-11-03 02:12:22,982 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17349,"state":"CANDIDATE","term":8,"voteFor":"866a20ba0172:8848"}, term: 8
+
+2019-11-03 02:12:22,983 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19048,"state":"CANDIDATE","term":9,"voteFor":"866a20ba0172:8848"}, term: 9
+
+2019-11-03 02:12:22,984 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19275,"state":"CANDIDATE","term":10,"voteFor":"866a20ba0172:8848"}, term: 10
+
+2019-11-03 02:12:22,985 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17813,"state":"CANDIDATE","term":11,"voteFor":"866a20ba0172:8848"}, term: 11
+
+2019-11-03 02:12:22,986 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":16308,"state":"CANDIDATE","term":12,"voteFor":"866a20ba0172:8848"}, term: 12
+
+2019-11-03 02:12:23,048 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19363,"state":"CANDIDATE","term":13,"voteFor":"866a20ba0172:8848"}, term: 13
+
+2019-11-03 02:12:23,049 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":16480,"state":"CANDIDATE","term":14,"voteFor":"866a20ba0172:8848"}, term: 14
+
+2019-11-03 02:12:23,051 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18437,"state":"CANDIDATE","term":15,"voteFor":"866a20ba0172:8848"}, term: 15
+
+2019-11-03 02:12:23,054 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":16314,"state":"CANDIDATE","term":16,"voteFor":"866a20ba0172:8848"}, term: 16
+
+2019-11-03 02:12:23,056 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18893,"state":"CANDIDATE","term":17,"voteFor":"866a20ba0172:8848"}, term: 17
+
+2019-11-03 02:12:23,189 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17541,"state":"CANDIDATE","term":18,"voteFor":"866a20ba0172:8848"}, term: 18
+
+2019-11-03 02:12:23,190 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18151,"state":"CANDIDATE","term":19,"voteFor":"866a20ba0172:8848"}, term: 19
+
+2019-11-03 02:12:23,190 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18146,"state":"CANDIDATE","term":20,"voteFor":"866a20ba0172:8848"}, term: 20
+
+2019-11-03 02:12:23,191 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":16468,"state":"CANDIDATE","term":21,"voteFor":"866a20ba0172:8848"}, term: 21
+
+2019-11-03 02:12:23,240 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17394,"state":"CANDIDATE","term":22,"voteFor":"866a20ba0172:8848"}, term: 22
+
+2019-11-03 02:12:23,242 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":16695,"state":"CANDIDATE","term":23,"voteFor":"866a20ba0172:8848"}, term: 23
+
+2019-11-03 02:12:23,243 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19887,"state":"CANDIDATE","term":24,"voteFor":"866a20ba0172:8848"}, term: 24
+
+2019-11-03 02:12:23,248 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":15762,"state":"CANDIDATE","term":25,"voteFor":"866a20ba0172:8848"}, term: 25
+
+2019-11-03 02:12:23,249 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19195,"state":"CANDIDATE","term":26,"voteFor":"866a20ba0172:8848"}, term: 26
+
+2019-11-03 02:12:23,251 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19001,"state":"CANDIDATE","term":27,"voteFor":"866a20ba0172:8848"}, term: 27
+
+2019-11-03 02:12:23,259 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":16771,"state":"CANDIDATE","term":28,"voteFor":"866a20ba0172:8848"}, term: 28
+
+2019-11-03 02:12:23,260 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18396,"state":"CANDIDATE","term":29,"voteFor":"866a20ba0172:8848"}, term: 29
+
+2019-11-03 02:12:23,261 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17777,"state":"CANDIDATE","term":30,"voteFor":"866a20ba0172:8848"}, term: 30
+
+2019-11-03 02:12:23,262 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19031,"state":"CANDIDATE","term":31,"voteFor":"866a20ba0172:8848"}, term: 31
+
+2019-11-03 02:12:23,263 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":16346,"state":"CANDIDATE","term":32,"voteFor":"866a20ba0172:8848"}, term: 32
+
+2019-11-03 02:12:23,264 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":16023,"state":"CANDIDATE","term":33,"voteFor":"866a20ba0172:8848"}, term: 33
+
+2019-11-03 02:12:23,265 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":16823,"state":"CANDIDATE","term":34,"voteFor":"866a20ba0172:8848"}, term: 34
+
+2019-11-03 02:12:23,266 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18470,"state":"CANDIDATE","term":35,"voteFor":"866a20ba0172:8848"}, term: 35
+
+2019-11-03 02:12:23,281 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18255,"state":"CANDIDATE","term":36,"voteFor":"866a20ba0172:8848"}, term: 36
+
+2019-11-03 02:12:23,283 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":19854,"state":"CANDIDATE","term":37,"voteFor":"866a20ba0172:8848"}, term: 37
+
+2019-11-03 02:12:23,285 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17267,"state":"CANDIDATE","term":38,"voteFor":"866a20ba0172:8848"}, term: 38
+
+2019-11-03 02:12:23,286 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":15512,"state":"CANDIDATE","term":39,"voteFor":"866a20ba0172:8848"}, term: 39
+
+2019-11-03 02:12:23,288 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17333,"state":"CANDIDATE","term":40,"voteFor":"866a20ba0172:8848"}, term: 40
+
+2019-11-03 02:12:23,296 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":15486,"state":"CANDIDATE","term":41,"voteFor":"866a20ba0172:8848"}, term: 41
+
+2019-11-03 02:12:23,314 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17939,"state":"CANDIDATE","term":42,"voteFor":"866a20ba0172:8848"}, term: 42
+
+2019-11-03 02:12:23,330 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":18224,"state":"CANDIDATE","term":43,"voteFor":"866a20ba0172:8848"}, term: 43
+
+2019-11-03 02:12:23,335 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":17638,"state":"CANDIDATE","term":44,"voteFor":"866a20ba0172:8848"}, term: 44
+
+2019-11-03 02:12:37,964 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:22:36,782 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:22:51,787 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:32:50,859 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:33:05,864 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:42:37,849 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:42:52,852 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:48:39,363 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 02:48:54,372 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 03:48:12,854 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 03:48:27,856 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 04:03:34,400 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 04:03:49,404 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 04:44:03,838 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 04:44:18,841 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 04:53:47,507 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 04:54:02,510 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:04:01,193 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:04:16,200 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:17:29,695 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:17:44,698 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:27:43,505 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:27:58,516 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:37:56,660 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:38:11,663 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:48:10,133 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:48:25,139 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:58:25,278 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 05:58:40,282 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 06:52:25,055 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 12:04:41,531 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"866a20ba0172:8848","leaderDueMs":15303,"state":"CANDIDATE","term":45,"voteFor":"866a20ba0172:8848"}, term: 45
+
+2019-11-03 12:04:56,577 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"866a20ba0172","key":"866a20ba0172:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-03 12:20:47,708 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-admin
+
+2019-11-03 12:20:47,715 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-admin
+
+2019-11-03 13:00:33,201 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-web
+
+2019-11-03 14:27:06,172 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@organization
+
+2019-11-03 14:33:24,253 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@authentication-server
+
+2019-11-03 14:40:39,178 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@authorization-server
+
+2019-11-03 14:40:39,190 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@authorization-server
+

@@ -1,0 +1,27 @@
+version: '3'
+services:
+  #网关服务
+  gateway-web:
+    image: av/gateway-web:latest
+    container_name: av-gateway-web
+    restart: always
+    networks:
+      - av-net
+    ports:
+      - 8443:8443
+    env_file: .env
+    environment:
+      TZ: Asia/Shanghai
+
+  #网关管理服务
+  gateway-admin:
+    image: av/gateway-admin:latest
+    container_name: av-gateway-admin
+    restart: always
+    networks:
+      - av-net
+    ports:
+      - 8445:8445
+    env_file: .env
+    environment:
+      TZ: Asia/Shanghai

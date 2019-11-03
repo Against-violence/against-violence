@@ -1,0 +1,224 @@
+2019-11-03 12:20:48,432 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 12:20:48,455 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 12:20:48,472 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 12:20:48,472 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 12:20:48,498 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 12:20:48,501 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 12:21:10,513 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 12:21:10,514 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 12:21:10,524 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 12:21:10,525 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 12:51:30,717 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 12:51:30,719 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 12:51:30,750 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 12:51:30,750 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 12:51:30,768 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 12:51:30,778 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:00:33,205 INFO DEFAULT_GROUP@@gateway-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8443:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:00:33,207 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-web, ips: 192.168.95.69:8443_true,
+
+2019-11-03 13:00:40,462 INFO DEFAULT_GROUP@@gateway-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8443:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:00:40,463 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-web, ips: 
+
+2019-11-03 13:08:09,125 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:08:09,126 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 13:08:09,130 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:08:09,131 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 13:08:38,687 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:08:38,687 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:08:38,689 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:08:38,691 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:08:38,718 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:08:38,730 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:22:56,224 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:22:56,224 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 13:22:56,225 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:22:56,225 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 13:26:26,223 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:26:26,224 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:26:26,227 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:26:26,230 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:26:26,262 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:26:26,275 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:42:00,236 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:42:00,237 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 13:42:00,239 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:42:00,239 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 13:42:40,539 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:42:40,539 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:42:40,543 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:42:40,543 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:42:40,549 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:42:40,552 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 13:50:21,930 INFO DEFAULT_GROUP@@gateway-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8443:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:50:21,930 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-web, ips: 192.168.95.69:8443_true,
+
+2019-11-03 13:50:21,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-web, ips: 192.168.95.69:8443_true,
+
+2019-11-03 13:54:53,387 INFO DEFAULT_GROUP@@gateway-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8443:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:54:53,395 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-web, ips: 
+
+2019-11-03 13:56:55,703 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:56:55,704 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 13:56:55,705 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 13:56:55,706 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 14:03:58,339 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:03:58,341 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 14:03:58,349 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:03:58,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 14:03:58,378 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 14:03:58,388 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 14:12:20,342 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:12:20,345 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 14:12:20,350 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:12:20,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 14:22:59,644 INFO DEFAULT_GROUP@@gateway-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8443:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:22:59,649 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-web, ips: 192.168.95.69:8443_true,
+
+2019-11-03 14:23:58,572 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:23:58,579 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 14:23:58,596 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:23:58,600 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 14:23:58,644 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 14:23:58,649 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 192.168.95.69:8445_true,
+
+2019-11-03 14:27:06,180 INFO DEFAULT_GROUP@@organization {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:27:06,181 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@organization, ips: 192.168.95.69:8010_true,
+
+2019-11-03 14:27:06,193 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@organization, ips: 192.168.95.69:8010_true,
+
+2019-11-03 14:33:24,262 INFO DEFAULT_GROUP@@authentication-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:33:24,270 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authentication-server, ips: 192.168.95.69:8001_true,
+
+2019-11-03 14:33:24,281 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authentication-server, ips: 192.168.95.69:8001_true,
+
+2019-11-03 14:40:39,207 INFO DEFAULT_GROUP@@authorization-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:40:39,208 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 192.168.95.69:8000_true,
+
+2019-11-03 14:40:39,208 INFO DEFAULT_GROUP@@authorization-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:40:39,209 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 192.168.95.69:8000_true,
+
+2019-11-03 14:41:35,325 INFO DEFAULT_GROUP@@authorization-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:41:35,326 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 
+
+2019-11-03 14:41:35,326 INFO DEFAULT_GROUP@@authorization-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:41:35,326 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 
+
+2019-11-03 14:41:37,439 INFO DEFAULT_GROUP@@authorization-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:41:37,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 192.168.95.69:8000_true,
+
+2019-11-03 14:41:37,439 INFO DEFAULT_GROUP@@authorization-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.95.69:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:41:37,440 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 192.168.95.69:8000_true,
+
+2019-11-03 14:41:39,377 INFO DEFAULT_GROUP@@authentication-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:41:39,377 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authentication-server, ips: 
+
+2019-11-03 14:41:39,972 INFO DEFAULT_GROUP@@gateway-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8443:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:41:39,973 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-web, ips: 
+
+2019-11-03 14:41:41,351 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:41:41,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 14:41:41,351 INFO DEFAULT_GROUP@@gateway-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8445:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:41:41,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-admin, ips: 
+
+2019-11-03 14:41:41,819 INFO DEFAULT_GROUP@@organization {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-03 14:41:41,819 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@organization, ips: 
+
+2019-11-03 14:41:54,278 INFO {POS} {IP-DISABLED} valid: 192.168.95.69:8000@DEFAULT@DEFAULT_GROUP@@authorization-server, region: unknown, msg: client timeout after 15000, last beat: 1572763297464
+
+2019-11-03 14:42:11,494 INFO DEFAULT_GROUP@@authorization-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-03 14:42:11,495 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 
+
+2019-11-03 14:42:11,495 INFO DEFAULT_GROUP@@authorization-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.95.69:8000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-03 14:42:11,495 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 
+
+2019-11-03 14:42:11,497 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 
+
+2019-11-03 14:42:11,501 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@authorization-server, ips: 
+

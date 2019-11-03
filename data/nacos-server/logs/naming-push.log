@@ -1,0 +1,68 @@
+2019-11-03 12:20:49,456 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 12:21:11,515 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 12:51:31,719 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 13:00:34,212 INFO DEFAULT_GROUP@@gateway-web is changed, add it to push queue.
+
+2019-11-03 13:00:41,465 INFO DEFAULT_GROUP@@gateway-web is changed, add it to push queue.
+
+2019-11-03 13:08:10,095 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 13:08:39,688 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 13:22:57,225 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 13:26:27,225 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 13:42:01,238 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 13:42:41,542 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 13:50:22,931 INFO DEFAULT_GROUP@@gateway-web is changed, add it to push queue.
+
+2019-11-03 13:54:54,395 INFO DEFAULT_GROUP@@gateway-web is changed, add it to push queue.
+
+2019-11-03 13:56:56,705 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 14:03:59,353 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 14:12:21,344 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 14:23:00,648 INFO DEFAULT_GROUP@@gateway-web is changed, add it to push queue.
+
+2019-11-03 14:23:59,574 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 14:27:07,146 INFO DEFAULT_GROUP@@organization is changed, add it to push queue.
+
+2019-11-03 14:33:25,271 INFO DEFAULT_GROUP@@authentication-server is changed, add it to push queue.
+
+2019-11-03 14:40:40,208 INFO DEFAULT_GROUP@@authorization-server is changed, add it to push queue.
+
+2019-11-03 14:41:36,295 INFO DEFAULT_GROUP@@authorization-server is changed, add it to push queue.
+
+2019-11-03 14:41:40,486 INFO DEFAULT_GROUP@@authentication-server is changed, add it to push queue.
+
+2019-11-03 14:41:40,982 INFO DEFAULT_GROUP@@gateway-web is changed, add it to push queue.
+
+2019-11-03 14:41:42,632 INFO DEFAULT_GROUP@@gateway-admin is changed, add it to push queue.
+
+2019-11-03 14:41:43,055 INFO DEFAULT_GROUP@@organization is changed, add it to push queue.
+
+2019-11-03 14:41:43,143 INFO serviceName: DEFAULT_GROUP@@organization changed, schedule push for: 127.0.0.1:64552, agent: Nacos-Java-Client:v1.1.1, key: 127.0.0.1,64552,18536113068740
+
+2019-11-03 14:41:43,248 INFO send udp packet: 127.0.0.1,64552,18536113068740
+
+2019-11-03 14:41:53,624 INFO retry to push data, key: 127.0.0.1,64552,18536113068740
+
+2019-11-03 14:41:53,626 INFO send udp packet: 127.0.0.1,64552,18536113068740
+
+2019-11-03 14:41:55,279 INFO DEFAULT_GROUP@@authorization-server is changed, add it to push queue.
+
+2019-11-03 14:42:03,632 INFO retry to push data, key: 127.0.0.1,64552,18536113068740
+
+2019-11-03 14:42:03,634 WARN max re-push times reached, retry times 2, key: 127.0.0.1,64552,18536113068740
+
+2019-11-03 14:42:12,497 INFO DEFAULT_GROUP@@authorization-server is changed, add it to push queue.
+

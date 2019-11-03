@@ -1,0 +1,24 @@
+version: '3'
+services:
+  #监控管理台服务
+  monitor-admin:
+    image: av/admin:latest
+    container_name: av-monitor-admin
+    restart: always
+    networks:
+      - av-net
+    ports:
+      - 8022:8022
+    env_file: .env
+    environment:
+      TZ: Asia/Shanghai
+
+  sentinel-dashboard:
+    image: av/sentinel-dashboard-docker:latest
+    container_name: av-sentinel-dashboard
+    restart: always
+    networks:
+      - av-net
+    ports:
+      - 8021:8021
+    env_file: .env

@@ -37,7 +37,7 @@
         <mockito.version>1.10.19</mockito.version>
         <mybatis-plus.version>3.1.0</mybatis-plus.version>
         <mybatis.version>2.1.1</mybatis.version>
-        <mysql.version>5.1.39</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <jetcache-starter-redis.version>2.5.14</jetcache-starter-redis.version>
         <admin.version>2.2.0-SNAPSHOT</admin.version>
         <flywaydb.version>5.2.4</flywaydb.version>
